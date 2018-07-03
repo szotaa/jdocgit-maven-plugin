@@ -13,7 +13,7 @@ it to your remote Github repository.
   
 ## Usage
 
-After installign this plugin to your local Maven repository, add this to your pom.xml's <project> tag.
+After installing this plugin to your local Maven repository, add this to your pom.xml's <project> tag.
 
 ```
     <build>
